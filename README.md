@@ -5,9 +5,17 @@
 
 - 👋 Hola mi nombre es Manuel Alexander Max Jimenez 
      
-     Legajo: 172.595-6
-
-Me gustaria aprender a programar y meterme más en este mundo 
+     ## Datos personales 
+     
+     -Vivo en Villa Luro
+     
+     -Legajo: 172.595-6
+     
+     -Tengo 21 años
+     
+     ## Comentarios
+     
+     Me gustaria aprender a programar y meterme más en este mundo que me parece muy interesante
 
 
 <!---
